@@ -1,4 +1,4 @@
-package chap02.datatype;
+package chap02.examples;
 
 public class GarbageValueExample {
 	public static void main(String[] args) {
